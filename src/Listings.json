@@ -1,0 +1,141 @@
+[
+    {
+        "id":"1",
+        "type":"House",
+        "bedrooms":3,
+        "price":750000,
+        "tenure":"Freehold",
+        "description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior.",
+        "location":"Petts Wood Road, Petts Wood, Orpington",
+        "caption": "Property 1",
+        "images":["images/livingroom1.1.jpg","images/livingroom1.2.jpg","images/bedroom1.1.jpg","images/bedroom1.2.jpg","images/kitchen1.jpg","images/bathroom1.1.jpg","images/bathroom1.2.jpg"],
+        "picture":"images/thumbnail1.jpg",
+        "floorPlan":"images/FloorPlan1.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6338.320295633153!2d-122.10544390220218!3d37.4096894383184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0a74e4f720f%3A0x8aaeeaf32902aa9e!2sMonta%20Loma%2C%20Mountain%20View%2C%20CA%2C%20USA!5e0!3m2!1sen!2slk!4v1704821903359!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10001",
+        "added": {"month":"October",
+                    "day":12,
+                    "year":2022}
+    },
+    {
+        "id":"2",
+        "type":"Flat",
+        "bedrooms":2,
+        "price":399995,
+        "tenure":"Freehold",
+        "description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.This apartment being only five years old, is still under a 10 year building guarantee.",
+        "location":"Crofton Road Orpington BR6",
+        "caption": "Property 2",
+        "images":["images/livingroom2.1.jpg","images/livingroom2.2.jpg","images/bedroom2.1.jpg","images/bedroom2.2.jpg","images/kitchen2.jpg","images/bathroom2.1.jpg","images/bathroom2.2.jpg"],
+        "picture":"images/thumbnail2.jpg",
+        "floorPlan":"images/FloorPlan2.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50707.30993798775!2d-122.20514546970713!3d37.40858496556158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa53430003fc1%3A0x44344552006745c8!2sStanford%20Dish!5e0!3m2!1sen!2slk!4v1704822621799!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10005",
+        "added": {
+            "month":"September",
+            "day":14,
+            "year":2022
+        }
+    },
+    {
+        "id":"3",
+        "type":"Apartment",
+        "bedrooms":2,
+        "price":499000, 
+        "tenure":"Freehold",
+        "description":"A luxury home with this 2-bedroom, 2-bathroom penthouse apartment with a massive wrap-around terrace featuring sweeping city views. This diamond in the rough equipped with a washer/dryer connection is priced for action, presenting a unique chance for the discerning buyer to orchestrate a complete renovation and bring their dream penthouse to life. A blank canvas awaits you as you step into this space, the potential for transformation is endless.",
+        "location":"",
+        "caption": "Property  3",
+        "images":["images/livingroom3.1.jpg","images/livingroom3.2.jpg","images/bedroom3.1.jpg","images/bedroom3.2.jpg","images/kitchen3.jpg","images/bathroom3.1.jpg","images/bathroom3.2.jpg"],
+        "picture":"images/thumbnail3.jpg",
+        "floorPlan":"images/FloorPlan3.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d189904.15715801812!2d-122.29767451021137!3d37.364981596059955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa0bc8ae2a3a9%3A0x919afe8fafb67a7f!2sPurisima%20Creek%20Redwoods%20Open%20Space%20Preserve!5e0!3m2!1sen!2slk!4v1704822847764!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10006",
+        "added":{
+            "month":"November",
+            "day":12,
+            "year":2022
+        }
+    },
+    {
+        "id":"4",
+        "type":"House",
+        "bedrooms":3,
+        "price":500000, 
+        "tenure":"Freehold",
+        "description":"Enter into your exclusive penthouse home which offers sweeping western views of Central Park from all the major rooms within the apartment.This cavernous, sun splashed three-bedroom, three-bath apartment exemplifies Manhattan living at its best. From the moment you enter from your semi-private entrance, shared with only one other apartment on the floor, you enter a gracious entry gallery which transitions into the oversized living room.  A large private terrace is assessed directly through the living room which offers you the opportunity to enjoy fresh air and the open views. Two bedrooms offer ensuite baths, while the third bedroom is currently configured as a library with pocket doors. The large eat in kitchen has all major appliances and offers abundant storage. An added bonus of a washer /dryer adds extra convenience to the space." ,
+        "location":"40 E 80th St APT 25A, New York, NY 10075",
+        "caption": "Property  4",
+        "images":["images/livingroom4.1.jpg","images/livingroom4.2.jpg","images/bedroom4.1.jpg","images/bedroom4.2.jpg","images/kitchen4.jpg","images/bathroom4.1.jpg","images/bathroom4.2.jpg"],
+        "picture":"images/thumbnail4.jpg",
+        "floorPlan":"images/FloorPlan4.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1742456194734!2d-73.97719822348252!3d40.75819217138678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a74e318a9bb%3A0xfbfb87640a33679e!2sLotte%20New%20York%20Palace!5e0!3m2!1sen!2slk!4v1704823173289!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10001",
+        "added":{
+            "month":"December",
+            "day":15,
+            "year":2022
+        }
+     },
+     {
+        "id":"5",
+        "type":"House",
+        "bedrooms":3,
+        "price":499999, 
+        "tenure":"Freehold", 
+        "description":"Modern contemporary home located within the Trinity River Corridor just minutes from Downtown Dallas, Dart Rail station, and Dallas Zoo. Upgraded home with Fully encapsulated foam insulation throughout the house including roof and attic space which means more efficient heating and cooling. Energy efficient windows and doors. Breathtaking Downtown Dallas View at the top of the staircase and balcony. OPEN FLOOR PLAN, designer kitchen with large island, quartz countertops, stainless steel appliances. Abundant natural light. Spacious fenced in backyard with covered patio.",
+        "location":"339 Avenue E, Dallas, TX 75203",
+        "caption": "Property  5",
+        "images":["images/livingroom5.1.jpg","images/livingroom5.2.jpg","images/bedroom5.1.jpg","images/bedroom5.2.jpg","images/kitchen5.jpg","images/bathroom5.1.jpg","images/bathroom5.2.jpg"],
+        "picture":"images/thumbnail5.jpg",
+        "floorPlan":"images/FloorPlan5.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d12088.577354832249!2d-73.9811861!3d40.75885!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x89c258ff3e4c0459%3A0x170818c807511613!2s47-50%20Sts-Rockefeller%20Ctr%20New%20York%2C%20NY%2010020%20United%20States!3m2!1d40.758849999999995!2d-73.9811861!5e0!3m2!1sen!2slk!4v1704823669132!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10002",
+        "added":{
+            "month":"January",
+            "day":20,
+            "year":2019
+        }
+    },
+    {
+        "id":"6",
+        "type":"House",
+        "bedrooms":4,
+        "price":726500, 
+        "tenure":"Freehold",
+        "description":"Located in the center of one of the most historic & commuter friendly neighborhoods of Westchester, LUDLOW PARK, just north of Riverdale, you'll find an amazing architectural gem. Featured in OLD HOUSE Journal several years ago, it still has all its spacious, well-planned, open layout & original 1928 details. All exude top-quality construction, plaster walls, huge windows, high ceilings & beautiful oak floors. The expansive, fenced garden is accessible from both the sunroom & kitchen. From there, stone paths lead to the huge Carriage House style garage which is ideal for use as an artist's studio or an at-home office, and the 2 rooms in the attic of the home (approx. 400SF) are awaiting your inspiration.",
+        "location":"45 Ashton Road, Yonkers, NY 10705",
+        "caption": "Property 6",
+        "images":["images/livingroom6.1.jpg","images/livingroom6.2.jpg","images/bedroom6.1.jpg","images/bedroom6.2.jpg","images/kitchen6.jpg","images/bathroom6.1.jpg","images/bathroom6.2.jpg"],
+        "picture":"images/thumbnail6.jpg",
+        "floorPlan":"images/FloorPlan6.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d48333.81916390451!2d-73.9753676!3d40.7870106!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x89c25882fb30bbd5%3A0x5e26248b46dfc46c!2sUpper%20West%20Side%20New%20York%2C%20NY%20USA!3m2!1d40.787010599999995!2d-73.9753676!5e0!3m2!1sen!2slk!4v1704823909311!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10002",
+        "added":{
+            "month":"April",
+            "day":23,
+            "year":2019
+        }
+    },
+    {
+        "id":"7",
+        "type":"House",
+        "bedrooms":4,
+        "price":16900000, 
+        "tenure":"Freehold",
+        "description":"Perched atop a two-acre promontory with unobstructed views, this incomparable legacy property is the pinnacle of modern living within one of the world's most coveted coastal settings. This turnkey 4 Bed 3.5 Bath retreat spans 4,000 Sq Ft across a single level, anchored by a majestic great room with exposed vaulted ceilings and Fleetwood sliders opening to an infinity edge pool and breathtaking ocean views. Gourmet kitchen with center island, full bar, and seating area with fireplace. Primary suite comes with grand scale spa-like bath, custom built-ins, walk-in closet and third fireplace. ",
+        "location":"22575 Carbon Mesa Rd Malibu, CA 90265",
+        "caption": "Property  7",
+        "images":["images/livingroom7.1.jpg","images/livingroom7.2.jpg","images/bedroom7.1.jpg","images/bedroom7.2.jpg","images/kitchen7.jpg","images/bathroom7.1.jpg","images/bathroom7.2.jpg"],
+        "picture":"images/thumbnail7.jpg",
+        "floorPlan":"images/FloorPlan7.jpg",
+        "maplocation" :"<iframe src=\"https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d192827.78642466132!2d-74.6129577!3d40.9610211!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x89c30b2cf65d41d9%3A0x85c5444cae3f83bb!2sLake%20Hopatcong%20Jefferson%2C%20NJ%2007849%20USA!3m2!1d40.961021099999996!2d-74.6129577!5e0!3m2!1sen!2slk!4v1704824141828!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "Postalcode":"10004",
+        "added":{
+            "month":"October",
+            "day":20,
+            "year":2022
+        }
+    }
+
+]
